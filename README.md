@@ -19,7 +19,7 @@ A passionate **Full Stack Developer** with hands-on expertise in building high-p
 **Other Skills:**
 - RESTful APIs
 - Git & GitHub
-- Deployment (Vercel, Netlify, Heroku, etc.)
+- Deployment (Vercel, Netlify, Render, etc.)
 
 ---
 

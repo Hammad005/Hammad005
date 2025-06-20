@@ -1,25 +1,27 @@
-# 👋 Hi, I'm Hammad Khatri
+<h1 align="center">👋 Hi, I'm Hammad Khatri</h1>
 
-A passionate **Full Stack Developer** with hands-on expertise in building high-performance, scalable web applications using modern technologies. I specialize in both **front-end** and **back-end** development, ensuring seamless user experiences and robust system architectures.
+<p align="center">
+  🚀 Passionate <strong>Full Stack Developer</strong> | 💻 Crafting Scalable Web Applications | 🎯 Front-End & Back-End Expert
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Front-End:**
-- HTML, CSS, JavaScript, TypeScript
-- Tailwind CSS, React, Next.js
+### 💻 Front-End
+- 🧱 HTML, CSS, JavaScript, TypeScript  
+- 🎨 Tailwind CSS, ⚛️ React, ⚡ Next.js  
 
-**Back-End:**
-- Node.js, Express.js
+### 🖥 Back-End
+- 🔧 Node.js, 🚂 Express.js  
 
-**Databases:**
-- MongoDB, MySQL
+### 🗃 Databases
+- 🍃 MongoDB, 🐬 MySQL  
 
-**Other Skills:**
-- RESTful APIs
-- Git & GitHub
-- Deployment (Vercel, Netlify, Render, etc.)
+### 🧰 Other Skills
+- 🔗 RESTful APIs  
+- 🗂 Git & GitHub  
+- ☁️ Deployment (Vercel, Netlify, Render, etc.)
 
 ---
 
@@ -29,8 +31,8 @@ A passionate **Full Stack Developer** with hands-on expertise in building high-p
 - 🧠 Write clean, efficient, and type-safe code using TypeScript  
 - 🛠 Build RESTful APIs and powerful backend logic with Node.js  
 - 🔄 Integrate databases (SQL & NoSQL) and ensure data integrity  
-- 🚀 Optimize web app performance and scalability  
-- 🎯 Follow modern development practices and standards  
+- ⚙️ Optimize web app performance and scalability  
+- 📚 Follow modern development practices and standards  
 
 ---
 
@@ -38,25 +40,25 @@ A passionate **Full Stack Developer** with hands-on expertise in building high-p
 
 > “Clean code, scalable systems, and seamless user experience — that’s what I aim for.”
 
-I believe in writing meaningful code that not only solves problems but is also easy to scale and maintain. I constantly explore new technologies and push myself to improve with every project.
+I believe in writing meaningful code that not only solves problems but is also easy to scale and maintain. I'm always exploring new technologies and pushing myself to improve with every project.
 
 ---
 
 ## 📈 Current Focus
 
-- Building real-world **Next.js + TypeScript** applications  
-- Enhancing skills in DevOps and CI/CD  
-- Exploring serverless architecture and API optimization  
+- 🏗 Building real-world **Next.js + TypeScript** applications  
+- 🧪 Enhancing skills in **DevOps and CI/CD**  
+- 🧬 Exploring **serverless architecture** and **API optimization**
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [https://myportfolio-khaki-psi.vercel.app/](https://myportfolio-khaki-psi.vercel.app/)
-- 💼 LinkedIn: [www.linkedin.com/in/hammad-khatri-658ba2269](https://www.linkedin.com/in/hammad-khatri-658ba2269)
-- 🐱 GitHub: [https://github.com/Hammad005](https://github.com/Hammad005)
+- 🌐 Portfolio: [myportfolio-khaki-psi.vercel.app](https://myportfolio-khaki-psi.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/hammad-khatri-658ba2269](https://www.linkedin.com/in/hammad-khatri-658ba2269)
+- 🐱 GitHub: [github.com/Hammad005](https://github.com/Hammad005)
 - 📧 Email: khatrihammad911@gmail.com
 
 ---
 
-Feel free to check out my repositories and connect for collaborations or freelance opportunities!
+<p align="center">✨ Feel free to explore my repositories, collaborate, or reach out for freelance work! ✨</p>
